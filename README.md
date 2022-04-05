@@ -1,1 +1,1 @@
-practicing APIs and UI design
+Simple weather app that fetchs weather api
