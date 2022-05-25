@@ -1,1 +1,1 @@
-Simple weather app that fetchs weather api
+Simple weather app that fetchs weather data
